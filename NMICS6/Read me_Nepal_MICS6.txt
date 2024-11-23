@@ -1,0 +1,38 @@
+In the compressed WINZIP folder you will find the MICS6 datasets for Nepal. 
+
+Seven SPSS data files were produced, corresponding to the units of analysis: 
+1. Households - hh.sav 
+2. Household members - hl.sav
+3. Women in reproductive age (15-49 years of age) – wm.sav
+4. Birth history of ever-married Women in reproductive age (15-49 years of age) – bh.sav
+5. Men in reproductive age (15-49 years of age) – mn.sav
+6. Mothers or primary caretakers of children under the age of five – ch.sav
+7. Mothers or primary caretakers of children 5-17 – fs.sav
+
+The characteristics of the data such as sample size, weights, variable labels and information on recoded or imputed variables 
+ can be found within the survey archive which will be made available shortly on http://mics.unicef.org/surveys. 
+ The survey archive will also contain the questionnaires and information on the sampling and implementation of the survey.
+
+Access Conditions:
+Survey datasets are distributed at no cost for legitimate research, with the condition that we receive a description of the objectives 
+ of any research project that will be using the data prior to authorizing their distribution.
+Copies of all reports and publications based on the requested data must be sent to the following:
+
+1. 
+Central Bureau of Statistics
+Thapathali, Kathmandu, Nepal
+Tel: 977-1-4229406
+Fax: 977-1-4227720
+E-mail: mailto:info@cbs.gov.np
+
+2. 
+Nepal Country Office
+P.O.Box 1187
+UN House, Pulchowk
+Kathmandu, Nepal
+Tel: 977-1-5523200
+Fax: 977-1-5527280
+Email: mailto:kathmandu@unicef.org
+
+The above contact details are as of December 2020.
+
